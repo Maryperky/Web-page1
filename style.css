@@ -1,0 +1,25 @@
+#parent{
+    height: 480px;
+}
+
+
+#images{
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.4);
+}
+
+#text-p{
+    margin-top: 135px
+}
+p{
+    font-size: 14px;
+}
+
+#icon-con{
+    height: 100px;
+}
+
+.whatsapp-button{
+    background-color: #0056b3;
+}
